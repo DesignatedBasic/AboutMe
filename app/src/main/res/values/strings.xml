@@ -1,0 +1,10 @@
+<resources>
+    <string name = "app_name">About Me</string>
+    <string name = "name_text">Jeremy DuBois</string>
+    <string name = "imageView_content_desc">This is a star image</string>
+    <string name = "bio_text">This is a section which will introduce me as a person and who i am. This is a basic bio of me and the cool thing is, is this view is scrollable just like it is supposed to be.</string>
+    <string name = "more_text">Epoxy is an Android library for building complex screens in a RecyclerView. Models are automatically generated from custom views, databinding layouts, or Litho components via annotation processing. These models are then used in an EpoxyController to declare what items to show in the RecyclerView.
+    This abstracts the boilerplate of view holders, diffing items and binding payload changes, item types, item ids, span counts, and more, in order to simplify building screens with multiple view types. Additionally, Epoxy adds support for saving view state and automatic diffing of item changes
+Your go-to Android Toolbox. Our goal is to help you find the software and libraries you need. Made by developers for developers. The collection of libraries and resources is based on the Awesome Android List and direct contributions here. Jetpack is a suite of libraries, tools, and guidance to help developers write high-quality apps easier. These components help you follow best practices, free you from writing boilerplate code, and simplify complex tasks, so you can focus on the code you care about.Jetpack is a suite of libraries, tools, and guidance to help developers write high-quality apps easier. These components help you follow best practices, free you from writing boilerplate code, and simplify complex tasks, so you can focus on the code you care about.To add a new package, please, check the contribute section</string>
+    <string name = "scroll_image_desc">This is was extra credit</string><string name = "edit_text_hint">Enter your nickname</string><string name = "button_text">Save Nickname</string><string name = "text_show_name">Hello you!</string>
+</resources>
